@@ -80,7 +80,6 @@ https://assetstore.unity.com/packages/3d/environments/landscapes/snow-mountain-2
 https://assetstore.unity.com/packages/3d/environments/industrial/rpg-fps-game-assets-for-pc-mobile-industrial-set-v2-0-86679#content
 - 벙커
 https://assetstore.unity.com/packages/3d/environments/historic/world-war-1-pack-74843#content
-![image](https://github.com/user-attachments/assets/30f1233e-07be-43cd-90cd-6f5e4b4cd32d)
 - 플레이어
 https://assetstore.unity.com/packages/3d/props/weapons/low-poly-fps-pack-free-sample-144839
 - 좀비
@@ -95,7 +94,6 @@ soundeffect-lab.info
 /~~~~
 - 그라운드
 https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001
-![image](https://github.com/user-attachments/assets/ca67dcf0-d4e9-4d89-b662-c84f16baed8e)
 
 ## 결론
 **게임 개발 프로세스 경험** : 
